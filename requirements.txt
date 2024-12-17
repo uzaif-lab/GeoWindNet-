@@ -1,0 +1,8 @@
+tensorflow==2.x.x
+keras==2.x.x
+scikit-learn==1.x.x
+pandas==1.x.x
+numpy==1.x.x
+seaborn==0.x.x
+matplotlib==3.x.x
+keras-tuner==1.x.x
