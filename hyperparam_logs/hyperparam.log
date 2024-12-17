@@ -1,0 +1,2 @@
+This file will also be generated automatically i am just showcasing what the structure would look like 
+and this file will be generated automatically during hyperparameter tuning by Keras Tuner, it will store the logs related to the tuning process and if you using this then you dont have to worry about this this will auto and there will be set of directory.
